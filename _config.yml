@@ -1,18 +1,18 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
+title: Ceason的空间
 description: "A blog about lorem ipsum ..."
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://ceasoncui.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "http://ceasoncui.github.io/space-jekyll-template" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: lorem ipsum
+username: Ceason Cui
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+email: ceasoncui@gmail.com
+twitter_username: 
+github_username:  CeasonCui
+gplus_username:  
+linkedin_public_url:  # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: 
 profile_picture: https://avatars.githubusercontent.com/u/26756813?s=400&u=5d1d7a170d02ba1375ef42c954731a12a13a5f78&v=4
 
 # Build settings
@@ -47,11 +47,11 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: http://www.github.com/victorvoid
+      url: http://www.github.com/CeasonCui
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: http://www.twitter.com/victorvoid
+      url: 
       key_trigger: t
     - title: search
       url: ""
